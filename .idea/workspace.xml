@@ -4,9 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0d07137-9717-4f77-82a7-9424035766c5" name="Changes" comment="Домашнее задание по теме &quot;Базовые HTML тэги в шаблонах&quot;">
+    <list default="true" id="b0d07137-9717-4f77-82a7-9424035766c5" name="Changes" comment="Домашнее задание по теме &quot;DTL. Теги, наследование&quot;">
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/task5/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UrbanDjango/templates/fifth_task/registration_page_template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UrbanDjango/templates/third_task/main_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/templates/third_task/main_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/UrbanDjango/UrbanDjango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="HTML File" />
       </list>
     </option>
@@ -40,10 +52,20 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Python_Education/app",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "last_opened_file_path": "C:/Python_Education/UrbanProjectTest2/UrbanDjango/templates/fourth_task",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Python_Education\UrbanProjectTest2\UrbanDjango\templates\fourth_task" />
+      <recent name="C:\Python_Education\UrbanProjectTest2\UrbanDjango\templates\second_task" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Education\UrbanProjectTest2\UrbanDjango\templates\third_task" />
+      <recent name="C:\Python_Education\UrbanProjectTest2\UrbanDjango\templates\fourth_task" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,13 +114,22 @@
       <option name="project" value="LOCAL" />
       <updated>1724929197365</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Домашнее задание по теме &quot;DTL. Теги, наследование&quot;">
+      <option name="closed" value="true" />
+      <created>1724946103321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724946103321</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Домашнее задание по теме &quot;Urls и Views. Функциональное и классовое представление&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Базовые HTML тэги в шаблонах&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Базовые HTML тэги в шаблонах&quot;" />
+    <MESSAGE value="Домашнее задание по теме &quot;DTL. Теги, наследование&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;DTL. Теги, наследование&quot;" />
   </component>
 </project>

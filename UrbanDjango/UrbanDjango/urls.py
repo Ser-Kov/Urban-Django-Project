@@ -1,11 +1,10 @@
 from django.contrib import admin
 from django.urls import path
-from task4.views import main_page, shop, basket
+from task5.views import sign_up_by_html, sign_up_by_django
 
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('main/', main_page),
-    path('shop/', shop),
-    path('basket/', basket)
+    path('logging/temp', sign_up_by_html),
+    path('logging/form', sign_up_by_django)
 ]
