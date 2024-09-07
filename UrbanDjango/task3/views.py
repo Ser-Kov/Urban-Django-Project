@@ -3,16 +3,8 @@ from django.shortcuts import render
 
 def main_page(request):
     title = 'Мой сайт'
-    h1_text = 'Главная страница'
-    text_main = 'Главная'
-    text_shop = 'Магазин'
-    text_basket = 'Корзина'
     context = {
         'title': title,
-        'h1_text': h1_text,
-        'text_main': text_main,
-        'text_shop': text_shop,
-        'text_basket': text_basket
     }
     return render(request, 'third_task/main_page.html', context)
 
